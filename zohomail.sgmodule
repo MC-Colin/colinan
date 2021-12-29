@@ -1,5 +1,5 @@
-#!name=邮箱服务直连
-#!desc=邮箱服务直连
+#!name=Zoho邮箱服务直连
+#!desc=Zoho邮箱服务直连
 
 [Rule]
 DOMAIN-SUFFIX,zoho.com,DIRECT
