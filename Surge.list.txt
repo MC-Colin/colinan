@@ -1,0 +1,110 @@
+🇭🇰 Hong Kong 01 = trojan, qplitks.cjstwp.xyz, 19257, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 02 = trojan, qplitks.cjstwp.xyz, 17619, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 03 = trojan, qplitks.cjstwp.xyz, 23801, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 04 = trojan, qplitks.cjstwp.xyz, 22113, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 05 = trojan, qplitks.cjstwp.xyz, 18601, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 06 = trojan, qplitks.cjstwp.xyz, 18430, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 07 = trojan, qplitks.cjstwp.xyz, 21912, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 08 = trojan, qplitks.cjstwp.xyz, 20774, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 09 = trojan, qplitks.cjstwp.xyz, 23998, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 10 = trojan, qplitks.cjstwp.xyz, 22784, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 11 = trojan, qplitks.cjstwp.xyz, 19650, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 12 = trojan, qplitks.cjstwp.xyz, 21500, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 13 = trojan, qplitks.cjstwp.xyz, 17551, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 14 = trojan, qplitks.cjstwp.xyz, 22639, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 15 = trojan, qplitks.cjstwp.xyz, 19111, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 16 = trojan, qplitks.cjstwp.xyz, 18448, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 17 = trojan, qplitks.cjstwp.xyz, 20487, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 18 = trojan, qplitks.cjstwp.xyz, 20367, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 19 = trojan, qplitks.cjstwp.xyz, 23345, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 20 [Premium] = trojan, 8.8.8.8, 3767, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 21 [Premium] = trojan, 8.8.8.8, 3769, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 22 [Premium] = trojan, 8.8.8.8, 3777, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇰 Hong Kong 23 IPv4 Stream = trojan, qplitks.cjstwp.xyz, 22280, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 01 = trojan, eixyric.vrtnsb.xyz, 22688, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 02 = trojan, eixyric.vrtnsb.xyz, 19453, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 03 = trojan, eixyric.vrtnsb.xyz, 17240, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 04 [Premium] = trojan, 8.8.8.8, 3618, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 05 [Premium] = trojan, 8.8.8.8, 3621, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 06 [Premium] = trojan, 8.8.8.8, 3640, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 07 [Premium] = trojan, 8.8.8.8, 3624, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 08 = trojan, eixyric.vrtnsb.xyz, 18421, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 09 = trojan, eixyric.vrtnsb.xyz, 22084, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 10 = trojan, eixyric.vrtnsb.xyz, 20826, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 11 = trojan, eixyric.vrtnsb.xyz, 20461, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 12 = trojan, eixyric.vrtnsb.xyz, 20457, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 13 = trojan, eixyric.vrtnsb.xyz, 17175, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 14 [Premium] = trojan, 8.8.8.8, 3764, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 15 [Premium] = trojan, 8.8.8.8, 3766, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 16 IPv4 Stream = trojan, ytfqpmg.vrtnsb.xyz, 20925, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇺🇸 United States 17 IPv4 Stream = trojan, ytfqpmg.vrtnsb.xyz, 20864, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 01 = trojan, ytfqpmg.vrtnsb.xyz, 22591, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 02 = trojan, ytfqpmg.vrtnsb.xyz, 23636, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 03 = trojan, ytfqpmg.vrtnsb.xyz, 20201, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 04 = trojan, ytfqpmg.vrtnsb.xyz, 18804, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 05 = trojan, ytfqpmg.vrtnsb.xyz, 19665, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 06 = trojan, ytfqpmg.vrtnsb.xyz, 23694, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 07 = trojan, ytfqpmg.vrtnsb.xyz, 24189, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 08 = trojan, ytfqpmg.vrtnsb.xyz, 16968, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 09 = trojan, ytfqpmg.vrtnsb.xyz, 20397, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 10 = trojan, ytfqpmg.vrtnsb.xyz, 21283, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 11 = trojan, ytfqpmg.vrtnsb.xyz, 23538, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 12 = trojan, ytfqpmg.vrtnsb.xyz, 19374, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 13 = trojan, ytfqpmg.vrtnsb.xyz, 19443, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 14 = trojan, ytfqpmg.vrtnsb.xyz, 19824, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 15 = trojan, ytfqpmg.vrtnsb.xyz, 22149, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 16 = trojan, ytfqpmg.vrtnsb.xyz, 19781, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 17 = trojan, ytfqpmg.vrtnsb.xyz, 17597, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 18 = trojan, ytfqpmg.vrtnsb.xyz, 17846, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 19 = trojan, ytfqpmg.vrtnsb.xyz, 22125, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 20 = trojan, ytfqpmg.vrtnsb.xyz, 22996, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 21 = trojan, ytfqpmg.vrtnsb.xyz, 19867, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 22 [Premium] = trojan, 8.8.8.8, 3762, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇯🇵 Japan 23 [Premium] = trojan, 8.8.8.8, 3763, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇳🇱 Netherlands = trojan, sfgzqps.cjstwp.xyz, 23393, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇷🇺 Russia St.Peterburg = trojan, sfgzqps.cjstwp.xyz, 22206, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇷🇺 Russia Moscow = trojan, sfgzqps.cjstwp.xyz, 22159, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇩🇪 Germany 1 = trojan, sfgzqps.cjstwp.xyz, 22520, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇩🇪 Germany 2 = trojan, sfgzqps.cjstwp.xyz, 17252, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇫🇷 France = trojan, sfgzqps.cjstwp.xyz, 20841, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇬🇧 United Kingdom 1 = trojan, sfgzqps.cjstwp.xyz, 23412, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇬🇧 United Kingdom 2 = trojan, sfgzqps.cjstwp.xyz, 19982, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇬🇧 United Kingdom 3 = trojan, sfgzqps.cjstwp.xyz, 20730, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇸🇪 Sweden = trojan, sfgzqps.cjstwp.xyz, 16769, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇧🇬 Bulgaria = trojan, sfgzqps.cjstwp.xyz, 16586, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇦🇹 Austria = trojan, sfgzqps.cjstwp.xyz, 18693, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇮🇪 Ireland 1 = trojan, sfgzqps.cjstwp.xyz, 20572, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇮🇪 Ireland 2 = trojan, sfgzqps.cjstwp.xyz, 19140, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇮🇱 Israel = trojan, sfgzqps.cjstwp.xyz, 17145, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇹🇷 Turkey = trojan, sfgzqps.cjstwp.xyz, 20026, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇮🇹 Italy = trojan, sfgzqps.cjstwp.xyz, 23649, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇭🇺 Hungary = trojan, sfgzqps.cjstwp.xyz, 19320, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇰🇷 Korea 1 = trojan, qplitks.cjstwp.xyz, 22165, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇰🇷 Korea 2 = trojan, qplitks.cjstwp.xyz, 21272, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇰🇷 Korea 3 [Premium] = trojan, 8.8.8.8, 3701, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇰🇷 Korea 4 = trojan, ytfqpmg.vrtnsb.xyz, 19753, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇨🇳 Taiwan 1 = trojan, qplitks.cjstwp.xyz, 17822, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇨🇳 Taiwan 2 = trojan, qplitks.cjstwp.xyz, 17853, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇨🇳 Taiwan 3 = trojan, qplitks.cjstwp.xyz, 18760, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇨🇳 Taiwan 4 = trojan, qplitks.cjstwp.xyz, 18484, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇨🇳 Taiwan 5 = trojan, qplitks.cjstwp.xyz, 21388, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇨🇦 Canada 1 = trojan, ytfqpmg.vrtnsb.xyz, 21456, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇨🇦 Canada 2 = trojan, ytfqpmg.vrtnsb.xyz, 16869, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇦🇺 Australia Sydney 01 [Premium] = trojan, 8.8.8.8, 3720, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇦🇺 Australia Sydney 02 = trojan, qplitks.cjstwp.xyz, 24183, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇮🇳 India 1 = trojan, qplitks.cjstwp.xyz, 17376, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇮🇳 India 2 = trojan, qplitks.cjstwp.xyz, 17624, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇮🇩 Indonesia 01 = trojan, qplitks.cjstwp.xyz, 17176, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇧🇷 Brazil 01 = trojan, ytfqpmg.vrtnsb.xyz, 23754, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇸🇬 Singapore 01 = trojan, qplitks.cjstwp.xyz, 22257, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇸🇬 Singapore 02 = trojan, qplitks.cjstwp.xyz, 17493, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇸🇬 Singapore 03 = trojan, qplitks.cjstwp.xyz, 20430, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇸🇬 Singapore 04 = trojan, qplitks.cjstwp.xyz, 20209, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇸🇬 Singapore 05 = trojan, qplitks.cjstwp.xyz, 23511, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇸🇬 Singapore 06 = trojan, qplitks.cjstwp.xyz, 22708, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇸🇬 Singapore 07 = trojan, qplitks.cjstwp.xyz, 23823, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇸🇬 Singapore 08 = trojan, qplitks.cjstwp.xyz, 19503, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇸🇬 Singapore 09 = trojan, qplitks.cjstwp.xyz, 16975, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇸🇬 Singapore 10 = trojan, qplitks.cjstwp.xyz, 18599, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇸🇬 Singapore 11 [Premium] = trojan, 8.8.8.8, 3768, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
+🇸🇬 Singapore 12 IPv4 Stream = trojan, qplitks.cjstwp.xyz, 18172, password=8e600d81-6347-43b7-aa6d-13e9cb5ea435, sni=v1-dy.ixigua.com, skip-cert-verify=true, tfo=true, udp-relay=true
