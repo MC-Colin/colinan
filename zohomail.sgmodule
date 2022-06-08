@@ -3,3 +3,4 @@
 
 [Rule]
 DOMAIN-SUFFIX,zoho.com,DIRECT
+DOMAIN-SUFFIX,vercel.app,DIRECT
